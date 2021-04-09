@@ -14,5 +14,5 @@ Hi, there
   - Everything
 
 ## More information (zh_CN)
-  - [My homepage](https://www.kurenai.club)
+  - [My homepage](https://www.kurenai.ml)
 
