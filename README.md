@@ -7,7 +7,7 @@ Hi, there
   - Office worker
   - ACGN lover
   - Java programmer
-<img align="right" src="https://count.getloli.com/get/@kurenairyu.github">
+<img align="right" src="https://count.getloli.com/get/@kurenairyu.github?theme=rule34">
 
 ## I’m currently learning ...
   - Japanese
