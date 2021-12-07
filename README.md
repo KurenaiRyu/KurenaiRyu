@@ -7,12 +7,11 @@ Hi, there
   - Office worker
   - ACGN lover
   - Java programmer
+<img align="right" src="https://count.getloli.com/get/@kurenairyu.github">
 
 ## I’m currently learning ...
   - Japanese
   - [Netty](https://github.com/netty/netty)
   - Everything
-
 ## More information (zh_CN)
-  - [My homepage](https://www.kurenai.ml)
-
+  - [My homepage](https://www.kurenai.moe)
