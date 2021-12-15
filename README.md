@@ -17,7 +17,9 @@
 
 
 ## I’m currently learning ...
-<img align="right" src="https://bgm.tv/chart/img/161589" alt="">  
+<a href="http://bgm.tv/user/natsusai"><img align="right"
+src="http://bgm.tv/chart/img/161589" border="0" alt="Kurenai 的个人主页" 
+/></a>
 
   - Japanese
   - [Netty](https://github.com/netty/netty)
