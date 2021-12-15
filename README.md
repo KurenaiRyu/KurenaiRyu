@@ -7,9 +7,10 @@ Hi, there
   - Office worker
   - ACGN lover
   - Java programmer
-<img align="right" src="https://count.getloli.com/get/@kurenai.moe?theme=rule34">
 
 ## I’m currently learning ...
+<img align="right" src="https://count.getloli.com/get/@kurenai.moe?theme=rule34" alt="">
+
   - Japanese
   - [Netty](https://github.com/netty/netty)
   - Everything
