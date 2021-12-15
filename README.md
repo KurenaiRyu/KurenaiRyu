@@ -19,9 +19,9 @@ Hi, there
 
 ## I’m currently learning ...
 
+  - Japanese
 <img align="right" src="https://bgm.tv/chart/img/161589" alt="">
 
-  - Japanese
   - [Netty](https://github.com/netty/netty)
   - Everything
   
