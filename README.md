@@ -14,11 +14,12 @@ Hi, there
 
 ## I’m currently learning ...
 
+
   - Japanese
   - [Netty](https://github.com/netty/netty)
   - Everything
   
-<img align="right" src="https://bgm.tv/chart/img/161589" alt="">
+
 ## More information (zh_CN)
 
   - [My homepage](https://www.kurenai.moe)
