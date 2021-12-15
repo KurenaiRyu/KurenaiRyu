@@ -8,14 +8,10 @@ Hi, there
   - Android user
   - Office worker
   - ACGN lover
-
-<img align="right" src="https://count.getloli.com/get/@kurenai.moe?theme=rule34" alt="">
-
   - Java programmer
 
-            
 
-
+<img align="right" src="https://count.getloli.com/get/@kurenai.moe?theme=rule34" alt="">
 
 ## I’m currently learning ...
 
