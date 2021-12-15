@@ -8,24 +8,24 @@ Hi, there
   - Android user
   - Office worker
   - ACGN lover
+
+<img align="right" src="https://count.getloli.com/get/@kurenai.moe?theme=rule34" alt="">
+
   - Java programmer
 
             
 
-<img align="right" src="https://count.getloli.com/get/@kurenai.moe?theme=rule34" alt=""><br/>
 
 
 ## I’m currently learning ...
+
+<img align="right" src="https://bgm.tv/chart/img/161589" alt="">
 
   - Japanese
   - [Netty](https://github.com/netty/netty)
   - Everything
   
 
-
-<img align="right" src="https://bgm.tv/chart/img/161589" alt="">
-
-
 ## More information (zh_CN)
-
   - [My homepage](https://www.kurenai.moe)
+  
