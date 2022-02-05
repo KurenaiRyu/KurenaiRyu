@@ -17,7 +17,6 @@
 
 
 ## I’m currently learning ...
-<a href="http://bgm.tv/user/natsusai"><img align="right"
 src="http://bgm.tv/chart/img/161589" border="0" alt="Kurenai 的个人主页" 
 /></a>
 
