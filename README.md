@@ -11,6 +11,8 @@
   - Java programmer
 
 ## I’m currently learning ...
+<img align="right" src="https://count.getloli.com/get/@kurenai.moe?theme=rule34" alt="">
+
   - [Kotlin](https://github.com/JetBrains/kotlin)
   - [Netty](https://github.com/netty/netty)
   - Japanese
@@ -18,7 +20,6 @@
   
 
 ## More information (zh_CN)
-<img align="right" src="https://count.getloli.com/get/@kurenai.moe?theme=rule34" alt="">
 
   - [My homepage](https://www.kurenai.moe)
 
