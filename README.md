@@ -11,8 +11,9 @@
   - Java programmer
 
 ## I’m currently learning ...
-  - Japanese
+  - [Kotlin](https://github.com/JetBrains/kotlin)
   - [Netty](https://github.com/netty/netty)
+  - Japanese
   - Everything
   
 
