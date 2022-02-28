@@ -19,7 +19,7 @@
   - Everything
   
 
-## More information (zh_CN)
+## More information
 
   - [My homepage](https://www.kurenai.moe)
   - PGP
