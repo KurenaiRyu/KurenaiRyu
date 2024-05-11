@@ -21,7 +21,7 @@
 
 ## More information
 
-  - [My homepage](https://www.kurenai.moe)
+  - [My homepage](https://blog.kurenai.moe)
 
 
   
